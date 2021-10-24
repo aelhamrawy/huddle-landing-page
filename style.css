@@ -22,7 +22,7 @@ main,
 main {
   background-image: url("./images/bg-desktop.svg");
   background-color: var(--violet);
-  background-size: 92vw 100vh;
+  background-size: 92% 100%;
   background-repeat: no-repeat;
 }
 
